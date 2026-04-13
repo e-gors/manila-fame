@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "motion/react";
 import { ImageWithFallback } from "@/app/components/figma/ImageWithFallback";
 

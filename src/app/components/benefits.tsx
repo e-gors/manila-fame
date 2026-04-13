@@ -1,4 +1,3 @@
-import React from "react";
 import { Users, TrendingUp, Leaf, Star } from "lucide-react";
 import { motion } from "motion/react";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import { Navbar } from "@/app/components/navbar";
 import { Hero } from "@/app/components/hero";
 import { Benefits } from "@/app/components/benefits";
